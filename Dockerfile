@@ -29,4 +29,3 @@ make clean && make && make install
 
 RUN echo "extension=swoole.so" >> /usr/local/etc/php/conf.d/docker-php-ext-swoole.ini
 
-
