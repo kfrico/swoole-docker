@@ -1,11 +1,11 @@
 # swoole docker 
 
-swoole 4.0.1 docker
+swoole 4.0.4 docker
 
 ### 環境
 
 php 7.2.7
-swoole 4.0.1
+swoole 4.0.4
 
 ### Config
 

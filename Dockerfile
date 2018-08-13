@@ -11,9 +11,9 @@ make && \
 make install 
 
 RUN cd / && \
-wget https://github.com/swoole/swoole-src/archive/v4.0.1.tar.gz && \
-tar zxvf v4.0.1.tar.gz && \
-cd swoole-src-4.0.1 && \
+wget https://github.com/swoole/swoole-src/archive/v4.0.4.tar.gz && \
+tar zxvf v4.0.4.tar.gz && \
+cd swoole-src-4.0.4 && \
 phpize && \
 ./configure \
 --enable-openssl \
