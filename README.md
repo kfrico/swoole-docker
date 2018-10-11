@@ -6,6 +6,8 @@ swoole 4.0.4 docker
 
 php 7.2.7
 swoole 4.0.4
+protoc 3.5.0
+grpc 1.12.0
 
 ### Config
 
